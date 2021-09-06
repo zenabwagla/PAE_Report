@@ -59,7 +59,7 @@ namespace AngularKendo.Controllers
             }
         }
 
-        // ADD: Employee  
+        // ADD: Employee in list
 
         public ActionResult AddEmployee([DataSourceRequest]DataSourceRequest request, Employee_Table emp)
         {
